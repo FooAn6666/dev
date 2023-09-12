@@ -1,0 +1,5 @@
+{
+    "workbench.experimental.cloudChanges.autoStore": "onShutdown",
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+    "workbench.experimental.share.enabled": true
+}
